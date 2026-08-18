@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@sentry/bun": "^10.32.1",
-    "discord.js": "^14.25.1",
+    "discord.js": "^14.27.0",
     "drizzle-orm": "^0.45.1",
     "prom-client": "^15.1.3"
   },
